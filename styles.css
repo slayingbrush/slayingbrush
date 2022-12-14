@@ -1,0 +1,52 @@
+.weather-box{
+  width: 400px;
+  height: 470px;
+  background-color: #FCCAB3;
+  margin: auto;
+  margin-top: 30px;
+   border-radius: 25px;
+}
+.input {
+  padding: 30px;
+  text-align: center;
+  justify-content: center;
+}
+.city{
+    border-width: 2px;
+  border-color: #b3e5fc;
+ border-radius: 20px;
+}
+.submit{
+ background-color: #c1edee;
+  
+  color: black;
+  border: none;
+  font-size: 30px;
+  padding: 12px 12px;
+  margin-top: 6%;
+}
+.submit:hover {
+background-color: #c4ebde;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+.stats{
+  padding-top: 4%;
+  padding-left: 5%;
+  font-size: 187.5%;
+  font-family: sans-serif;
+}
+#cityreturn{
+  font-size: 100%;
+}
+
+#temp{
+  padding-top: 1px;
+}
+
+body{
+  background-color:#B3E5FC ;
+}
+
+
